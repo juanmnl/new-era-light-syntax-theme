@@ -66,12 +66,12 @@
 }
 
 .comment {
-  color: @black;
+  color: @gray;
 }
 
 .entity {
   &.name.type {
-    color: @light-orange;
+    color: @morado;
 
   }
 
@@ -125,10 +125,11 @@
 }
 
 .variable {
-  color: lighten(@orange, 5%);
+  /* color: lighten(@orange, 15%); */
+  color: @purple;
 
   &.interpolation {
-    color: darken(@orange, 10%);
+    color: darken(@orange, 25%);
   }
 
   &.parameter.function {
@@ -177,7 +178,7 @@
     }
 
     &.bold {
-      color: @light-orange;
+      color: @morado;
       font-style: bold;
     }
 
@@ -195,11 +196,11 @@
 
 .support {
   &.class {
-    color: @light-orange;
+    color: @morado;
   }
 
   &.function  {
-    color: @orange;
+    color: @purple;
 
     &.any-method {
       color: @tags;
@@ -235,7 +236,7 @@
 
 .meta {
   &.class {
-    color: @light-orange;
+    color: @morado;
   }
 
   &.link {
