@@ -5,7 +5,7 @@
   "description": "A nice lght theme, for coding outside or quick switching between editor and bright project",
   "repository": {
     "type": "git",
-    "url": "git://github.com/juanmnl/new-era-light-theme.git"
+    "url": "git://github.com/juanmnl/new-era-light-syntax-theme.git"
   },
   "engines": {
     "atom": ">=0.50.0"
