@@ -5,7 +5,7 @@ Best used with the atom light ui or any light withe-ish theme.
 
 ## Screen
 
-![New-era screenshot](https://raw.githubusercontent.com/juanmnl/new-era-light-theme/blob/master/screenshot.png)
+![New-era-light screenshot](https://raw.githubusercontent.com/juanmnl/new-era-light-syntax-theme/master/screenshot.png)
 
 
 Open Atom Preferences > Themes > Search: `new-era-light-syntax`,
