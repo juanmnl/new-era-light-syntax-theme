@@ -1,7 +1,10 @@
 # New era light Syntax Theme
 
-I wanted a light theme syntax for outside-bright-day coding, didn't find one that suited me, so here it is.
+I wanted a light theme syntax for coding on bright days, didn't find one that suited me, so here it is.
 Best used Atom's ONE LIGHT theme.
+
+If you want to combine it with a great dark syntax,
+checkout the dark version [New Era Syntax](https://atom.io/themes/new-era-syntax)
 
 ## Screen
 
