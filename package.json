@@ -1,7 +1,7 @@
 {
   "name": "new-era-light-syntax",
   "theme": "syntax",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "Light theme syntax for coding on bright/shiny days",
   "repository": {
     "type": "git",
