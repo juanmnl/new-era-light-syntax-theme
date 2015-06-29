@@ -1,6 +1,6 @@
 # New era light Syntax Theme
 
-I wanted a light theme syntax for coding on bright days, didn't find one that suited me, so here it is.
+Light theme syntax for coding on bright/shiny days.
 Best used Atom's ONE LIGHT theme.
 
 If you want to combine it with a great dark syntax,

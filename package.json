@@ -2,7 +2,7 @@
   "name": "new-era-light-syntax",
   "theme": "syntax",
   "version": "0.3.0",
-  "description": "A nice light theme, for coding outside or quick switching between editor and bright project",
+  "description": "Light theme syntax for coding on bright/shiny days",
   "repository": {
     "type": "git",
     "url": "git://github.com/juanmnl/new-era-light-syntax-theme.git"
